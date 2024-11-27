@@ -6,6 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Disk Sanitization</b>
   - [Sanitization Home Lab](https://github.com/Wesley-Francis/Disk-Sanitization-Lab) 
+- <b>Microsoft Azure</b>
+  - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/Wesley-Francis/Azure-VMs)
 
 
 <h2> 🏅 Certifications </h2>
