@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Disk Sanitization</b>
   - [Sanitization Home Lab](https://github.com/Wesley-Francis/Disk-Sanitization-Lab) 
 - <b>Microsoft Azure</b>
