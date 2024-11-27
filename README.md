@@ -8,7 +8,10 @@
   - [Sanitization Home Lab](https://github.com/Wesley-Francis/Disk-Sanitization-Lab) 
 - <b>Microsoft Azure</b>
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/Wesley-Francis/Azure-VMs)
+  - [Installing Active Directory within Azure VMs](https://github.com/Wesley-Francis/Installing-Active-Directory-within-Azure-VMs)
 
+
+h
 
 <h2> 🏅 Certifications </h2>
 
