@@ -10,6 +10,7 @@
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/Wesley-Francis/Azure-VMs)
   - [Installing Active Directory within Azure VMs](https://github.com/Wesley-Francis/Installing-Active-Directory-within-Azure-VMs)
   - [Configuring Active Directory In Azure VMs](https://github.com/Wesley-Francis/Configuring-Active-Directory-)
+  - [Setting up Network Shares and Permissions](https://github.com/Wesley-Francis/Network-and-File-Share-Perm)
 
 
 
