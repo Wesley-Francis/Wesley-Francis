@@ -19,7 +19,7 @@
 
 - CompTIA Security +
 - CompTIA Network + (In Progress)
-- Google Cybersecurity Proffessional
+- Google Cybersecurity Professional
 - Google IT Support Professional
 
 <h2> 😁 About Me </h2>
