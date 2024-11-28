@@ -9,6 +9,8 @@
   - [Installing Active Directory within Azure VMs](https://github.com/Wesley-Francis/Installing-Active-Directory-within-Azure-VMs)
   - [Configuring Active Directory In Azure VMs](https://github.com/Wesley-Francis/Configuring-Active-Directory-)
   - [Setting up Network Shares and Permissions](https://github.com/Wesley-Francis/Network-and-File-Share-Perm)
+- <b>Linux</b>
+  - [Installing, Updating and Removing Software in Linux](https://github.com/Wesley-Francis/Installing-Linux)
 
 
 
