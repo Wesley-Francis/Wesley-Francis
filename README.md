@@ -26,5 +26,5 @@
 
 - 🔭 I’m currently working on sharpening my skills in the IT and Cybersecurity space!
 - 🌱 I’m currently studying for CompTIA Network+, A+, CySA+, CISSP, and CCNP!
-- 🤔 I’m looking for work in the current positions: Help Desk Analyst, SOC Analyst, Security Analyst, Systems Administrator!
+- 🤔 I’m currently working as a BDR and I love all things technology!
 - ⚡ Fun fact: Love playing Volleyball, Tennis, and Computer gaming! 
